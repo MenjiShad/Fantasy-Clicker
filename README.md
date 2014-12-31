@@ -2,7 +2,6 @@ Fantasy-Clicker
 ===============
 
 Summer 2013 Project -unfinished- -abandoned-
-===============
 
 Main Driver
 ===============
