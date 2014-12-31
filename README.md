@@ -2,6 +2,10 @@ Fantasy-Clicker
 ===============
 
 Summer 2013 Project -unfinished- -abandoned-
+===============
+
+Main Driver
+===============
 /**
  *  Fantasy Clicker main
  *  Mouse click = increment "Fantasy" counter by x value
